@@ -11,6 +11,8 @@
   "author": "Phil Hawksworth <phil@netlify.com>",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^0.10.0"
+    "@11ty/eleventy": "^0.10.0",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0"
   }
 }
