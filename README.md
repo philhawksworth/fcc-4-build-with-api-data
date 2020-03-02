@@ -16,7 +16,7 @@ To work on this example locally, you can clone the repository and start editing,
 
 - [NodeJS and NPM](https://nodejs.org/)
 - A free [Netlify account](https://www.netlify.com?utm_source=github&utm_medium=fcc-examples-pnh&utm_campaign=devex)
-- A free [https://newsapi.org/] API key
+- A free [newsapi.org](https://newsapi.org/) API key
 
 ```bash
 
